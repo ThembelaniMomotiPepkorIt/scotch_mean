@@ -1,0 +1,23 @@
+{
+  "name": "scotch_mean",
+  "version": "1.0.0",
+  "authors": [
+    "Thembelani Momoti <thembelani@digital.pepkorit.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "animate.css": "~3.4.0",
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3"
+  }
+}
